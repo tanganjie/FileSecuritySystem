@@ -1,6 +1,1 @@
-/**
- * @author TangAnjie
- */
-$(document).ready(function(){
-    //alert('123!');
-});
+/** * @author SunXinwei */$(document).ready(function(){    //alert('123!');});

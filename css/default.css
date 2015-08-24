@@ -1,25 +1,1 @@
-body {
-	background-color: #E9EEF0
-}
-/*主体布局*/
-.mainbody{
-	width: 80%;
-	margin: auto;
-}
-header{
-	height: 70px;
-	border-style: solid;
-	border-width: 10px;
-	border-color: beige;
-	border-radius: 20px;
-	margin-top: 15px;
-}
-.title{
-	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
-	font-size: 50px;
-	margin-left: 20px;
-	margin-top: auto;
-	margin-bottom: auto;
-	font-weight: bold;
-	color: gray;
-}
+/** * @author SunXinwei */body {	background-color: #E9EEF0}/*主体布局*/.mainbody{	width: 80%;	margin: auto;}/*头部样式*/header{	height: 70px;	border-style: solid;	border-width: 10px;	border-color: beige;	border-radius: 20px;	margin-top: 15px;}/*标题样式*/.title{	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;	font-size: 50px;	margin-left: 20px;	margin-top: auto;	margin-bottom: auto;	font-weight: bold;	color: gray;}
