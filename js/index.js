@@ -1,1 +1,1 @@
-/** * @author SunXinwei */$(document).ready(function(){    //alert('123!');});
+/** * @author SunXinwei */$(document).ready(function(){    $("#LoginButton").click(function(){        $("#usernameAlert").slideDown();        $("#passwordAlert").slideDown();    });    $("#username").focus(function(){        $("#usernameAlert").slideUp();    });    $("#password").focus(function(){        $("#passwordAlert").slideUp();    });});
